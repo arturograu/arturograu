@@ -2,7 +2,7 @@
 - 👀 I’m interested in mobile apps development, micro SaaS and gaming projects
 - 🌱 I’m currently exploring Next.js and continuosly improving my Flutter skills
 - 💞️ I’m open to collaborations
-- 📫 You can reach me at arturo@fluttered.io
+- 📫 You can reach me at argrau3@gmail.com
 
 <a href="https://app.daily.dev/arturograu"><img src="./devcard.png" width="356" alt="Arturo's Dev Card"/></a>
 
