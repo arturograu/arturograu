@@ -1,6 +1,6 @@
 ### Hi there, I’m @arturograu 👋
 - 👀 I’m interested in mobile apps development, micro SaaS and gaming projects
-- 🌱 I’m currently exploring Next.js and continuosly improving my Flutter skills
+- 🌱 I’m currently learning Python to explore the AI Engineering field
 - 💞️ I’m open to collaborations
 - 📫 You can reach me at argrau3@gmail.com
 
