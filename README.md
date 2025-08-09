@@ -6,5 +6,5 @@
 
 ### Open Source Projects
 [![Country Flags](https://github-readme-stats.vercel.app/api/pin/?username=arturograu&repo=country_flags)](https://github.com/arturograu/country_flags)
-[![Command Alias Manager](https://github-readme-stats.vercel.app/api/pin/?username=arturograu&repo=git_alias_manager)](https://github.com/arturograu/git_alias_manager)
+[![Alias Manager](https://github-readme-stats.vercel.app/api/pin/?username=arturograu&repo=alias_manager)](https://github.com/arturograu/alias_manager)
 
