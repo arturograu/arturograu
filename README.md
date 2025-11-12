@@ -11,6 +11,7 @@
 [![Country Flags](https://github-readme-stats.vercel.app/api/pin/?username=arturograu&repo=country_flags)](https://github.com/arturograu/country_flags)
 [![Alias Manager](https://github-readme-stats.vercel.app/api/pin/?username=arturograu&repo=alias_manager)](https://github.com/arturograu/alias_manager)
 [![System Command Runner](https://github-readme-stats.vercel.app/api/pin/?username=arturograu&repo=system_command_runner)](https://github.com/arturograu/system_command_runner)
+[![Barrel Me](https://github-readme-stats.vercel.app/api/pin/?username=arturograu&repo=barrel_me)](https://github.com/arturograu/barrel_me)
 
 ### 💻 Daily Coding at Labhouse
 
